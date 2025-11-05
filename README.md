@@ -124,7 +124,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 🌐 [Live Demo](https://sdg-receipt-scanner-69gb62vsm-mokiths-projects.vercel.app)
 📧 Email: *[your email here]*
-💻 GitHub: [github.com/mokith](https://github.com/MOKI1110)
+💻 GitHub: [MOKI1110](https://github.com/MOKI1110)
 
 ---
 
